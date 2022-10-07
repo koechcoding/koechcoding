@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @koechcoding
+- 👀 I’m interested in developing clients expectatations to fullfilment
+- 🌱 I’m currently learning C++, MERN
+- 💞️ I’m looking to collaborate on any tech related issue.
+- 📫 How to reach me https://www.linkedin.com/in/kelvin-koech/
