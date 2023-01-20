@@ -3,11 +3,10 @@
 ### Hello there 👋, my name is Kelvin Koech
 
 
-Software developer, I'm  skilled professional who codes, tests, debugs, and maintains the comprehensive instructions known as computer programs 
-passionate about Frontend web development
+Software developer, I'm  skilled professional who codes, tests, debugs, and maintains softwares.
 Experience in JavaScript and React js, Angular, Typescript Node js frameworks.
 
-Skills: Angular / REACT / JS / HTML / CSS/TAILWIND CSS /REDUX / Material Ui
+Skills: Angular / REACT / JS / HTML / CSS/TAILWIND CSS /REDUX / Material Ui / Node / C++
 
 <figure><embed src="https://wakatime.com/share/@f2c36ba1-80ec-4050-ae81-1250011694a0/adb28a6c-d250-415f-8862-dc9aa3c7f121.svg"></embed></figure>
 
