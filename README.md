@@ -12,9 +12,9 @@ Experience in JavaScript and React js, Angular, Typescript Node js frameworks.<b
 
 Skills: Angular / REACT / JS / HTML / CSS/TAILWIND CSS /REDUX / Material Ui / Node / C++
 
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+</div>
 
 <figure><embed src="https://wakatime.com/share/@f2c36ba1-80ec-4050-ae81-1250011694a0/adb28a6c-d250-415f-8862-dc9aa3c7f121.svg"></embed></figure>
 <figure><embed src="https://wakatime.com/share/@f2c36ba1-80ec-4050-ae81-1250011694a0/1789c5c2-3bf5-40f8-afe8-7854f78a8505.svg"></embed></figure>
