@@ -5,11 +5,16 @@
 
 Software developer, I'm  skilled professional who codes, tests, debugs, and maintains softwares.
 Experience in JavaScript and React js, Angular, Typescript Node js frameworks.<br/>
+
  <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=koechcoding&label=Profile%20Visitors&pretty=true" />
 </a>
 
 Skills: Angular / REACT / JS / HTML / CSS/TAILWIND CSS /REDUX / Material Ui / Node / C++
+
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <figure><embed src="https://wakatime.com/share/@f2c36ba1-80ec-4050-ae81-1250011694a0/adb28a6c-d250-415f-8862-dc9aa3c7f121.svg"></embed></figure>
 <figure><embed src="https://wakatime.com/share/@f2c36ba1-80ec-4050-ae81-1250011694a0/1789c5c2-3bf5-40f8-afe8-7854f78a8505.svg"></embed></figure>
