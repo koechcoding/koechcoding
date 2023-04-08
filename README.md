@@ -31,4 +31,4 @@ Experience in JavaScript and React js, Angular, Typescript Node js frameworks.<b
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=koechcoding) 
 
-![Snake animation](https://github.com/koechcoding/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/koechcoding/koechcoding/blob/output/github-contribution-grid-snake.svg) 
