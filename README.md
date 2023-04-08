@@ -21,10 +21,14 @@ Experience in JavaScript and React js, Angular, Typescript Node js frameworks.<b
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koechcoding)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=koechcoding&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=koechcoding)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=koechcoding)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=koechcoding) 
+
+![Snake animation](https://github.com/koechcoding/koechcoding/blob/output/github-contribution-grid-snake.svg)
