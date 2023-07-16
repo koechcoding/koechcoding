@@ -3,7 +3,7 @@
 ### Hello there 👋, my name is Kelvin Koech
 
 
-Software developer, I'm  skilled professional who codes, tests, debugs, and maintains softwares.
+I'm a  skilled professional who codes, tests, debugs, and maintains software.
 Experience in JavaScript and React js, Angular, Typescript Node js frameworks.<br/>
 
  <a href="https://visitcount.itsvg.in">
